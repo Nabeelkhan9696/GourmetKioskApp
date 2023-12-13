@@ -1,4 +1,8 @@
 {
   "name": "Expo-project",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "react-native-google-places-autocomplete": "^2.5.6",
+    "react-native-vector-icons": "^10.0.2"
+  }
 }
